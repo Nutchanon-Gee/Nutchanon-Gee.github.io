@@ -2,7 +2,7 @@
 title: "nutchanon chaiyaratana"
 ---
 
-This is a Quarto website.
+welcome to my public portfolio.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
