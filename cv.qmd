@@ -1,0 +1,30 @@
+---
+title: "CV"
+---
+::: {.page-nav}
+[← Home](index.qmd){.nav-button}
+[Projects](projects.qmd){.nav-button}
+[Contact](contact.qmd){.nav-button}
+:::
+
+::: {.cv-card}
+## Professional Summary
+
+I am a graduate student in Applied Business Analytics at Boston University Metropolitan College, with a background in internal audit, AML/KYC audit support, ERP implementation, financial records digitization, and process improvement. Before coming to Boston, I built experience connecting business operations with data-driven problem solving in Thailand. I am now continuing to strengthen my technical skills in Python, SQL, R, Tableau, GitHub, and AWS to translate data into practical business insights.
+
+[Download Resume PDF](assets/Nutchanon_Chaiyaratana_Resume.pdf){.button}
+[Download Resume Word File](assets/Nutchanon_Chaiyaratana_Resume.docx){.button .secondary}
+:::
+
+## Education
+
+**Boston University, Metropolitan College** — Boston, MA  
+Master of Science in Applied Business Analytics, Expected August 2026
+
+**Kasetsart University** — Bangkok, Thailand  
+Bachelor of Business Administration in Accounting, 2014–2018
+
+## Core Skills
+
+- **Analytics & Tools:** Python, SQL, R, Tableau, GitHub, AWS
+- **Business Skills:** Internal audit, KYC audit support, marketing analysis, process improvement, accounting

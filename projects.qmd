@@ -1,0 +1,78 @@
+---
+title: "Projects"
+---
+::: {.page-nav}
+[← Home](index.qmd){.nav-button}
+[CV](cv.qmd){.nav-button}
+[Contact](contact.qmd){.nav-button}
+:::
+## Featured Academic Projects
+
+::: {.project-card}
+### Lobster Land Stay & Play Analytics — Boston University
+
+Built an analytics project to support a theme park's potential lodging and multi-day guest experience strategy. The project connected hospitality benchmarking with practical recommendations for package design, targeting, and marketing.
+
+**Methods and tools:** Python, pandas, scikit-learn, statsmodels, Tableau, classification, forecasting, segmentation, conjoint analysis, and A/B testing.
+
+**Selected work:**
+
+- Built classification models to identify guests likely to purchase a premium Stay & Play package.
+- Forecasted 2026 EPS for Marriott and Hilton using historical annual EPS data and Python-based forecasting methods.
+- Analyzed guest segments and translated model output into targeting recommendations.
+:::
+
+::: {.project-card}
+### Lightcast Job Postings Analytics — Boston University
+
+Analyzed large-scale job posting data to understand trends across companies, locations, career areas, and salary patterns. The project emphasized scalable data analysis and business-focused communication.
+
+**Methods and tools:** PySpark, Spark SQL, Python, Plotly, Matplotlib, Jupyter Notebook, GitHub.
+
+**Selected work:**
+
+- Queried and transformed large job-posting tables using PySpark and Spark SQL.
+- Created summary tables and visualizations to communicate labor-market insights.
+- Connected technical findings to business recommendations for workforce and job-market analysis.
+:::
+
+::: {.project-card}
+### School Operations Digitization — Jirasat Wittaya School
+
+Led a school-wide digitization initiative for a K-12 institution in Thailand, improving financial records, student data management, billing workflows, and ERP-related operations.
+
+**Selected impact:**
+
+- Improved accuracy of financial records by identifying duplicate entries and unclassified data.
+- Delivered estimated cost savings of US$38,000 through financial data correction and process improvement.
+- Supported an annual cost saving of approximately US$30,000 by redesigning student lunch operations.
+- Coordinated with engineers, teachers, and administrators to customize ERP features for attendance, lesson planning, and student-card payments.
+:::
+
+## Side Projects & Activities
+
+::: {.project-grid}
+
+::: {.project-card}
+### Project Leader — Accounting Smile 14
+
+**Kasetsart University | Jul 2016 – Jan 2017**
+
+Led 90 volunteers to build a playground for a rural school in Ayutthaya and raised US$2,000 through faculty and company sponsorships.
+:::
+
+::: {.project-card}
+### Teaching Assistant — Photography
+
+**Ella.bkk**
+
+Assisted photography classes by guiding students on camera operation and the fundamentals of film photography.
+:::
+
+::: {.project-card}
+### Personal Interests
+
+Golf, photography, hiking, travel, and camping.
+:::
+
+:::

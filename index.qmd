@@ -1,9 +1,81 @@
 ---
-title: "nutchanon chaiyaratana"
+title: "About Me"
 ---
 
-welcome to my public portfolio.
+::: {.hero}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.hero-text}
 
-![](./image/DSCF2870.JPG){width="75%" fig-align="center"}
+# Nutchanon Chaiyaratana
+
+### Applied Business Analytics | Business Operations | Data-Driven Decision Making
+
+I am a graduate student in Applied Business Analytics at Boston University Metropolitan College. Before coming to Boston, I studied accounting and worked in internal audit, KYC audit support, ERP implementation, and school operations digitization in Thailand. My background helps me understand both business operations and data-driven problem solving, and I am continuing to build skills in Python, SQL, R, Tableau, GitHub, and AWS.
+
+::: {.hero-buttons}
+[Projects](projects.qmd){.btn .btn-primary}
+[CV](cv.qmd){.btn .btn-primary}
+[Contact](contact.qmd){.btn .btn-primary}
+:::
+
+:::
+
+::: {.hero-image}
+
+![](assets/profile.jpg)
+
+:::
+
+
+:::
+
+## Experience Journey
+
+::: {.timeline-hover}
+
+::: {.timeline-item}
+**2014–2018**
+
+### Bachelor of Business Administration in Accounting
+
+::: {.timeline-detail}
+**Kasetsart University — Bangkok, Thailand**  
+Built a foundation in accounting, finance, business operations, and analytical thinking.
+:::
+:::
+
+::: {.timeline-item}
+**2018–2020**
+
+### Internal Auditor, SAS-AML Team
+
+::: {.timeline-detail}
+**Bangkok Bank — Bangkok, Thailand**  
+Worked on AML/KYC audit support, customer information system validation, credit card audit planning, and fraud-risk review.
+:::
+:::
+
+::: {.timeline-item}
+**2021–2025**
+
+### Digitization Project Manager & Head of Innovation
+
+::: {.timeline-detail}
+**Jirasat Wittaya School — Ayutthaya, Thailand**  
+Led digitization, ERP implementation, financial record improvement, billing workflow updates, and operational process improvements.
+:::
+:::
+
+::: {.timeline-item}
+**2025–2026**
+
+### M.S. in Applied Business Analytics
+
+::: {.timeline-detail}
+**Boston University — Boston, MA**  
+Developing skills in Python, SQL, PySpark, machine learning, forecasting, classification, data visualization, and business analytics.
+:::
+:::
+
+:::
+

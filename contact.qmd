@@ -1,0 +1,23 @@
+---
+title: "Contact"
+---
+::: {.page-nav}
+[← Home](index.qmd){.nav-button}
+[Projects](projects.qmd){.nav-button}
+[CV](cv.qmd){.nav-button}
+:::
+
+::: {.contact-card}
+## Get in Touch
+The easiest way to contact me is by email, but I have also included my phone number for reference.
+
+
+
+**Email:** [Nutchanon.chai@gmail.com](mailto:nutchanon.chai@gmail.com)<br>
+**Alternate Email:** [golf@bu.edu](mailto:golf@bu.edu)<br>
+**Phone:** +66 83-079-1107 *(Thailand number; email is preferred for faster contact)*<br>
+**Location:** Boston, MA
+
+[Email Me](mailto:nutchanon.chai@gmail.com){.button}
+:::
+
