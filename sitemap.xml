@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://Nutchanon-Gee.github.io/about.html</loc>
-    <lastmod>2026-05-19T05:18:50.707Z</lastmod>
+    <loc>https://Nutchanon-Gee.github.io/index.html</loc>
+    <lastmod>2026-06-20T22:52:48.982Z</lastmod>
   </url>
   <url>
-    <loc>https://Nutchanon-Gee.github.io/index.html</loc>
-    <lastmod>2026-05-19T05:18:50.820Z</lastmod>
+    <loc>https://Nutchanon-Gee.github.io/cv.html</loc>
+    <lastmod>2026-06-20T22:52:48.862Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Nutchanon-Gee.github.io/projects.html</loc>
+    <lastmod>2026-06-20T22:52:48.982Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Nutchanon-Gee.github.io/contact.html</loc>
+    <lastmod>2026-06-20T22:52:48.862Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Nutchanon-Gee.github.io/about.html</loc>
+    <lastmod>2026-06-20T22:52:48.853Z</lastmod>
   </url>
 </urlset>
